@@ -1,0 +1,77 @@
+[
+    {
+        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/lock.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/khanh71/CS3-Plugin",
+        "fileSize": 8878,
+        "status": 1,
+        "authors": [
+            "anhdaden"
+        ],
+        "tvTypes": [
+            "Others"
+        ],
+        "version": 1,
+        "internalName": "MovieProvider",
+        "description": "Phải cài đặt repo này và kích hoạt mới tải được các nguồn bên dưới",
+        "url": "https://github.com/khanh71/CS3-Plugin/blob/main/MovieProvider.cs3",
+        "name": "ActiveMoviePluginProvider"
+    },
+    {
+        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/kkphim.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://t.me/cs3vn",
+        "fileSize": 46812,
+        "status": 1,
+        "authors": [
+            "anhdaden"
+        ],
+        "tvTypes": [
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 11,
+        "internalName": "KKPhimProvider",
+        "url": "https://github.com/khanh71/CS3-Plugin/blob/main/KKPhimProvider.cs3",
+        "name": "KKPhimProvider"
+    },
+    {
+        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/nguonc.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://t.me/cs3vn",
+        "fileSize": 51647,
+        "status": 1,
+        "authors": [
+            "anhdaden"
+        ],
+        "tvTypes": [
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 17,
+        "internalName": "NguonCProvider",
+        "url": "hhttps://github.com/khanh71/CS3-Plugin/blob/main/NguonCProvider.cs3",
+        "name": "NguonCProvider"
+    },
+    {
+        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/ophim.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://t.me/cs3vn",
+        "fileSize": 46639,
+        "status": 1,
+        "authors": [
+            "anhdaden"
+        ],
+        "tvTypes": [
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 12,
+        "internalName": "OPhimProvider",
+        "url": "https://github.com/khanh71/CS3-Plugin/blob/main/NguonCProvider.cs3",
+        "name": "OPhimProvider"
+    }
+]

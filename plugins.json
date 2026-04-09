@@ -14,7 +14,7 @@
         "version": 1,
         "internalName": "MovieProvider",
         "description": "Phải cài đặt repo này và kích hoạt mới tải được các nguồn bên dưới",
-        "url": "https://github.com/khanh71/CS3-Plugin/blob/main/MovieProvider.cs3",
+        "url": "https://raw.githubusercontent.com/khanh71/CS3-Plugin/refs/heads/main/MovieProvider.cs3",
         "name": "ActiveMoviePluginProvider"
     },
     {
@@ -33,7 +33,7 @@
         ],
         "version": 11,
         "internalName": "KKPhimProvider",
-        "url": "https://github.com/khanh71/CS3-Plugin/blob/main/KKPhimProvider.cs3",
+        "url": "https://raw.githubusercontent.com/khanh71/CS3-Plugin/refs/heads/main/KKPhimProvider.cs3",
         "name": "KKPhimProvider"
     },
     {
@@ -52,7 +52,7 @@
         ],
         "version": 17,
         "internalName": "NguonCProvider",
-        "url": "hhttps://github.com/khanh71/CS3-Plugin/blob/main/NguonCProvider.cs3",
+        "url": "https://raw.githubusercontent.com/khanh71/CS3-Plugin/refs/heads/main/NguonCProvider.cs3",
         "name": "NguonCProvider"
     },
     {
@@ -71,7 +71,7 @@
         ],
         "version": 12,
         "internalName": "OPhimProvider",
-        "url": "https://github.com/khanh71/CS3-Plugin/blob/main/NguonCProvider.cs3",
+        "url": "https://raw.githubusercontent.com/khanh71/CS3-Plugin/refs/heads/main/OPhimProvider.cs3",
         "name": "OPhimProvider"
     }
 ]

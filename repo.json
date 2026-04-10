@@ -1,6 +1,6 @@
 {
     "name": "Vietnamese Movie",
-    "description": "https://t.me/cs3vn",
+    "description": "https://github.com/khanh71/CS3-Plugin",
     "manifestVersion": 1,
     "pluginLists": [
       "https://raw.githubusercontent.com/khanh71/CS3-Plugin/refs/heads/main/plugins.json"

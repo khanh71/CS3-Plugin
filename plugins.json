@@ -73,26 +73,5 @@
         "internalName": "OPhimProvider",
         "url": "https://raw.githubusercontent.com/khanh71/CS3-Plugin/refs/heads/main/OPhimProvider.cs3",
         "name": "OPhimProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=uncutmaza.cc&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/khanh71/CS3-Plugin",
-        "fileSize": 174937,
-        "status": 1,
-        "authors": [
-            "anhdaden",
-            "hexated"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Anime",
-            "Movie"
-        ],
-        "version": 32,
-        "internalName": "ViStreamProvider",
-        "description": "Download FullHD, 2K, 4K from torrent and cloud driver",
-        "url": "https://raw.githubusercontent.com/khanh71/CS3-Plugin/refs/heads/main/ViStreamProvider.cs3",
-        "name": "ViStreamProvider"
     }
 ]

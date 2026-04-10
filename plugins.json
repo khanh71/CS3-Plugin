@@ -5,12 +5,13 @@
         "repositoryUrl": "https://github.com/khanh71/CS3-Plugin",
         "fileSize": 42324,
         "status": 1,
+        "language": "vi",
         "authors": [
             "anhdaden", "RowdyRushya"
         ],
         "version": 9,
         "internalName": "SyncProvider",
-        "description": "dssdsd",
+        "description": "Đồng bộ lịch sử xem giữa các thiết bị",
         "url": "https://raw.githubusercontent.com/khanh71/CS3-Plugin/refs/heads/main/SyncProvider.cs3",
         "name": "Cross-Device Sync"
     },    
@@ -20,6 +21,7 @@
         "repositoryUrl": "https://github.com/khanh71/CS3-Plugin",
         "fileSize": 8878,
         "status": 1,
+        "language": "vi",
         "authors": [
             "anhdaden"
         ],
@@ -38,6 +40,7 @@
         "repositoryUrl": "https://github.com/khanh71/CS3-Plugin",
         "fileSize": 46812,
         "status": 1,
+        "language": "vi",
         "authors": [
             "anhdaden"
         ],
@@ -57,6 +60,7 @@
         "repositoryUrl": "https://github.com/khanh71/CS3-Plugin",
         "fileSize": 51647,
         "status": 1,
+        "language": "vi",
         "authors": [
             "anhdaden"
         ],
@@ -76,6 +80,7 @@
         "repositoryUrl": "https://github.com/khanh71/CS3-Plugin",
         "fileSize": 46639,
         "status": 1,
+        "language": "vi",
         "authors": [
             "anhdaden"
         ],
@@ -88,5 +93,26 @@
         "internalName": "OPhimProvider",
         "url": "https://raw.githubusercontent.com/khanh71/CS3-Plugin/refs/heads/main/OPhimProvider.cs3",
         "name": "OPhimProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=uncutmaza.cc&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/khanh71/CS3-Plugin",
+        "fileSize": 174937,
+        "status": 1,
+        "authors": [
+            "anhdaden",
+            "hexated"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 32,
+        "internalName": "ViStreamProvider",
+        "description": "Download FullHD, 2K, 4K from torrent and cloud driver",
+        "url": "https://raw.githubusercontent.com/khanh71/CS3-Plugin/refs/heads/main/ViStreamProvider.cs3",
+        "name": "ViStreamProvider"
     }
 ]

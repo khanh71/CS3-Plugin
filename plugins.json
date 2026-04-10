@@ -109,6 +109,5 @@
         "description": "Download FullHD, 2K, 4K from torrent and cloud driver",
         "url": "https://raw.githubusercontent.com/khanh71/CS3-Plugin/refs/heads/main/ViStreamProvider.cs3",
         "name": "ViStreamProvider"
-    },
-
+    }
 ]

@@ -1,5 +1,20 @@
 [
     {
+        "iconUrl": "https://clouding.vn/wp-content/uploads/2022/10/cropped-Cloud-Services-192x192.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/khanh71/CS3-Plugin",
+        "fileSize": 42324,
+        "status": 1,
+        "authors": [
+            "anhdaden", "RowdyRushya"
+        ],
+        "version": 9,
+        "internalName": "SyncProvider",
+        "description": "dssdsd",
+        "url": "https://raw.githubusercontent.com/khanh71/CS3-Plugin/refs/heads/main/SyncProvider.cs3",
+        "name": "Cross-Device Sync"
+    },    
+    {
         "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/lock.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/khanh71/CS3-Plugin",

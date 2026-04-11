@@ -69,7 +69,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 12,
+        "version": 1,
         "internalName": "OPhimProvider",
         "url": "https://raw.githubusercontent.com/khanh71/CS3-Plugin/refs/heads/main/OPhimProvider.cs3",
         "name": "OPhimProvider"
